@@ -1,0 +1,94 @@
+.finger__container{
+  background: linear-gradient(76.02deg, #FF9D2D 1.66%, #FFD877 93.21%);
+  border-radius: 30px;
+  height: 865px;
+  width: 1500px;
+  position: relative;
+}
+.finger__content{
+  background-image: url(../../img/honey.png);
+  background-repeat: no-repeat;
+  height: 611px;
+  padding-top: 100px;
+  display: flex;
+  align-items: center;
+}
+.finger,.licking__text,.honey__text{
+  font-weight: 700;
+font-size: 100px;
+line-height: 130px;
+color: #0B0B0B;
+}
+.finger__text{
+  margin-left: 99px;
+}
+.licking__text{
+  margin-left: 197px;
+}
+.bees-img{
+  width: 189px;
+  height: 129px;
+}
+.honey__span{
+  width: 274px;
+height: 0px;
+left: 227px;
+top: 669px;
+opacity: 0.5;
+border: 1px solid #000000;
+display: block;
+}
+.honey-block{
+  width: 658px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 70px;
+  margin-left: 99px;
+}
+.honey__links{
+  width: 419px;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 99px;
+}
+.honey__link1{
+  padding: 18px 50px;
+  width: 180px;
+  height: 65px;
+  background: #000000;
+  font-family: 'Kodchasan';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 160%;
+color: #FFFFFF;
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.honey__link2{
+  padding: 18px 50px;
+  width: 209px;
+  height: 65px;
+  border: 1px solid #000000;
+  font-family: 'Kodchasan';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 160%;
+color: #000000;
+flex: none;
+order: 0;
+
+}
+  .finger__positsion{
+  background-image: url(../../img/positsionhoney.png);
+  background-repeat: no-repeat;
+  width: 205px;
+  height: 321px;
+  position: absolute;
+  top: -5%;
+  left: -3%;
+  }
+
